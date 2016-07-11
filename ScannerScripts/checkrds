@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh -i /export/home/sdc/RTafni/ssh/realtimeKey root@rdc 'checkrds'
